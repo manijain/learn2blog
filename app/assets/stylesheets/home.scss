@@ -1,0 +1,31 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.bg-primary {
+    background-color: #78C2AD !important;
+}
+
+.bg-secondary {
+    background-color: #F3969A !important;
+}
+
+.btn-secondary {
+  background-color: #F3969A;
+  border-color: #F3969A;
+}
+
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #ef7479;
+  border-color: #ee686e;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
+
+.alert-secondary, .alert-secondary > th, .alert-secondary > td {
+    background-color: #fce2e3;
+    border-color: #fce2e3;
+}
